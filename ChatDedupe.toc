@@ -1,0 +1,8 @@
+## Interface: 20501
+## Title: ChatDedupe
+## Author: Santiclause
+## Version: 0.1.0
+## Notes: Chat deduplication using an LRU cache
+
+lua-lru/src/lru/lru.lua
+ChatDedupe.lua
